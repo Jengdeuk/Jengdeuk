@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jengdeuk)](https://solved.ac/jengdeuk/)  
 
-<a href="https://bit.ly/Jengdeuk" target='_blank'><img alt="Profile" src ="https://img.shields.io/badge/Profile-0D1117.svg?&style=for-the-badge&logo=Notion&logoColor=gray"/></a>
+<a href="https://bit.ly/Jengdeuk" target='_blank'><img alt="Profile" src ="https://img.shields.io/badge/Profile-0D1117.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://jengdeuk.tistory.com/" target='_blank'><img alt="Blog" src ="https://img.shields.io/badge/Blog-0D1117.svg?&style=for-the-badge&logo=Tistory&logoColor=orange"/></a>
 <a href="https://www.youtube.com/@jengdeuk" target='_blank'><img alt="YouTube" src ="https://img.shields.io/badge/YouTube-0D1117.svg?&style=for-the-badge&logo=Youtube&logoColor=red"/></a>
 
